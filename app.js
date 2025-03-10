@@ -18,7 +18,7 @@ function agregarAmigo(){
     {listaAmigos.push(inputAmigo.value);} else
      { alert("Debe ingresar un nombre");}
 
-   ullistaAmigos.innerHTML += `<li>${inputAmigo.value}</l1>`;
+   ullistaAmigos.innerHTML += `<li>${inputAmigo.value}</li>`;
    inputAmigo.value="";
     } 
 
