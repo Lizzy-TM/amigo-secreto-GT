@@ -48,5 +48,5 @@
 
 ### Vista del resultado final del proyecto:
 
-![Imagen final del proyecto amigo-secreto!](/amigo-secreto-GT/assets/Imagen-ProyectoF.png "Proyecto-Final-Amigo-Secreto")
+![Imagen final del proyecto amigo-secreto!](/assets/Imagen-ProyectoF.png "Proyecto-Final-Amigo-Secreto")
 
